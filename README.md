@@ -232,13 +232,16 @@ After successful deployment, Terraform provides the EC2 public IP.
 Open browser:
 
 ```
-http://<EC2-PUBLIC-IP>
+http://13.232.162.13/
 ```
 
 Expected output:
 
 ```
-Welcome to nginx!
+Terraform AWS Infrastructure
+Welcome Ganesh 👋
+This EC2 instance was automatically provisioned using Terraform.
+
 ```
 
 ---
