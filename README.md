@@ -232,7 +232,7 @@ After successful deployment, Terraform provides the EC2 public IP.
 Open browser:
 
 ```
-http://13.232.162.13/
+http://13.232.162.13
 ```
 
 Expected output:
