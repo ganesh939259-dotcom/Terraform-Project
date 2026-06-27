@@ -140,7 +140,7 @@ Default Output Format
 ## Step 1: Clone Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/ganesh939259-dotcom/Terraform-Project.git
 ```
 
 Go inside project folder:
